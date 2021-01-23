@@ -25,7 +25,7 @@ Unit 2
 
 ### Notes
 
-Describe any challenges encountered while building the app.
+Making the videos upload. Sometimes the videos wouldn't play.
 
 ## Open-source libraries used
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
