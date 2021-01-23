@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">codePathFlixster</string>
+    <string name="a_spinoff_of_the_fast_and_the_furious">A spinoff of The Fast and the Furious</string>
+    <string name="image">image</string>
+    <string name="poster">poster</string>
+    <string name="textview">TextView</string>
+</resources>
