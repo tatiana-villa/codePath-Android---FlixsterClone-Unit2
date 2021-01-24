@@ -21,7 +21,7 @@ Unit 2
 
 ### App Walkthough GIF
 
-<img src="https://gph.is/g/Z2KQ515" width=250><br>
+<img src="https://github.com/tatiana-villa/codePathFlixster/blob/master/Flixster_walkthrough.gif" width=250><br>
 
 ### Notes
 
