@@ -21,7 +21,7 @@ Unit 2
 
 ### App Walkthough GIF
 
-<img src="https://media.giphy.com/media/nx40kCxlt954VcjNu2/giphy.gif" width=250><br>
+<img src="https://gph.is/g/Z2KQ515" width=250><br>
 
 ### Notes
 
